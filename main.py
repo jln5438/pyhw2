@@ -35,4 +35,4 @@ GPA3=getGradePoint(letterGrade)
 print("Grade point for course 3 is: "+str(GPA3))
 
 GPA=((credit1*GPA1)+(credit2*GPA2)+(credit3*GPA3))/(credit1+credit2+credit3)
-print("Your GPA is: "+str(GPA))
+print("Your GPA is: "+str(GPA)) 
